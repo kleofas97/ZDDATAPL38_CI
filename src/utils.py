@@ -6,3 +6,6 @@ class Calculator:
 
     def mnozenie(self):
         return self.a * self.b
+
+    def dzielenie(self):
+        return self.a / self.b
